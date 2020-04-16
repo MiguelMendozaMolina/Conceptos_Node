@@ -1,0 +1,6 @@
+Iteracion #0
+Iteracion #1
+Iteracion #2
+Iteracion #3
+Iteracion #4
+================ FIN ================ 
